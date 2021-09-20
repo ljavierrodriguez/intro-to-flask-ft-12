@@ -1,0 +1,1 @@
+suma = lambda a, b: a + b
